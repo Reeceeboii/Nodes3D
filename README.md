@@ -7,5 +7,7 @@ is formed as long as the distance between them remains below the threshold defin
 
 It contains some interactivity, the instructions for which are shown on-screen during runtime.
 
+There are 2 separate classes of Node objects, one for the nodes forming the red connections (the superclass), and a subclass for the nodes forming the blue connections. They essentially behave in exactly the same way, but as stated above, they can only form connections with other nodes of the same color.
+
 ![alt text](https://raw.githubusercontent.com/Reeceeboii/Nodes3D/master/img/image1.PNG)
 ![alt text](https://raw.githubusercontent.com/Reeceeboii/Nodes3D/master/img/image2.PNG)
