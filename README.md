@@ -7,3 +7,5 @@ is formed as long as the distance between them remains below the threshold defin
 
 It contains some interactivity, the instructions for which are shown on-screen during runtime.
 
+![alt text](https://raw.githubusercontent.com/Reeceeboii/Nodes3D/master/img/image1.PNG)
+![alt text](https://raw.githubusercontent.com/Reeceeboii/Nodes3D/master/img/image2.PNG)
