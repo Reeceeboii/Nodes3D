@@ -1,3 +1,10 @@
+/*
+Nodes3D
+Reece Mercer 2018
+City, University of London
+*/
+
+
 int nodeCount = 55; // number of nodes to be rendered
 int bgNodeCount = 25; // number of secondary nodes to be rendered
 
