@@ -1,4 +1,7 @@
 # Nodes3D
+
+# This was my project for the 'programming bootcamp' (the event covering the first 2 weeks of university)
+
 A 3D 'network' effect using 3D libraries in Processing.
 This is a sketch that, in essence, creates nodes (3D spheres) within a defined volume of space (a cube).
 These nodes move around the cube randomly, and bounce off the edges when they hit them. When a node of one of
